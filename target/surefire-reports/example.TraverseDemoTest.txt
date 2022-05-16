@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: example.TraverseDemoTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.431 s - in example.TraverseDemoTest

@@ -14,6 +14,6 @@ public class IsUnderThirty
         if (node == null) {
             return false;
         }
-        return node.hasProperty("age") && ((Integer) node.getProperty("age")) < 30;
+        return node.hasProperty("age") && ((Long) node.getProperty("age")) < 30;
     }
 }
